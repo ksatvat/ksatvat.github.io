@@ -1,7 +1,3 @@
-# ksatvat.github.io
-
-# python_guidelines.github.io
-
 # Input validation
 ## Command Injection
 ### Abstract
